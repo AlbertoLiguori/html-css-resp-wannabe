@@ -11,6 +11,9 @@
   width: 50%;
   float: left;
 }
+.test{
+  padding:0;
+}
 
 #lezioni .row img {
   /* per centrare orizzontalmente */
